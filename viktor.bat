@@ -1,1 +1,1 @@
-shutdown["/s /t 3"]
+shutdown -s
